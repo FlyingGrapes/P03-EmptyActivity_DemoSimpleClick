@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Empty Activity - Demo Simple Click</string>
+    <string name="display">DISPLAY</string>
+    <string name="enter">Enter Something</string>
+    <string name="show">Display what the user enters</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+
+
+</resources>
